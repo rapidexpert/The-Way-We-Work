@@ -6,6 +6,6 @@ With that in mind, one of the "right" things to do is to communicate clearly and
 
 For example:
 
-* Samir in FL - find me on Sqwiggle/HipChat or call 954-614-XXXX
+* Samir in FL - find me on HipChat or call 954-614-XXXX
 * DZ WFH - 347-554-XXXX
 * David - vacation - unreachable
