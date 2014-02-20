@@ -6,7 +6,7 @@ As much as possible every day from our customers, each other and on.
 ## Building Value
 Creating real value for our customers, investors and ourselves.
 
-## FUN
+## Fun
 Excited to get to work every morning.
 
 ## Thoughtfulness
