@@ -1,7 +1,7 @@
 # Company Principles
 
 ## Learning
-As much as possible every day from our customers, each other and on.
+As much as possible every day from our customers, each other and on our own.
 
 ## Building Value
 Creating real value for our customers, investors and ourselves.
