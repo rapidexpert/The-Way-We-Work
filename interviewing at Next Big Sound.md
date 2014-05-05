@@ -7,7 +7,7 @@ Here’s what you can expect while interviewing for an engineering role at Next 
 You can assume that we have already learned a bit about you (via your resume/blog/code/referral/etc.), and we will ask some clarifying questions about your background. This initial chat is mainly an opportunity for you to ask questions about NBS. To make it productive, we hope that you would have done your homework on us as well.
 
 We want you to have a very good “feel” for NBS after this conversation, so we’ll cover:
-- What do we do (some of the technical details are [here](http://making.nextbigsound.com) and [here](http://highscalability.com/blog/2014/1/28/how-next-big-sound-tracks-over-a-trillion-song-plays-likes-a.html).
+- What do we do (some of the technical details are [here](http://making.nextbigsound.com) and [here](http://highscalability.com/blog/2014/1/28/how-next-big-sound-tracks-over-a-trillion-song-plays-likes-a.html)).
 - [The way we work](https://github.com/nextbigsoundinc/The-Way-We-Work) (and [have fun](https://www.youtube.com/watch?v=5f38YzV6ROM)).
 - Where we need help, and how that aligns with what you would like to do.
 
