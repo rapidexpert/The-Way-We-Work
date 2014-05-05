@@ -1,14 +1,14 @@
 # Interviewing at Next Big Sound
 
-Here’s what you can expect while interviewing for an engineering role at Next Big Sound. We want the process to be efficient, transparent, and engaging, and welcome your feedback on how we can make it better.
+Here’s what you can expect while interviewing for an engineering role at Next Big Sound. We expect the process to be efficient, transparent, and engaging, and welcome your feedback on how we can make it better.
 
 ## Initial Chat [30 minutes]
 
 You can assume that we have already learned a bit about you (via your resume/blog/code/referral/etc.), and we will ask some clarifying questions about your background. This initial chat is mainly an opportunity for you to ask questions about NBS. To make it productive, we hope that you would have done your homework on us as well.
 
 We want you to have a very good “feel” for NBS after this conversation, so we’ll cover:
-- What do we do.
-- The way we work.
+- What do we do (some of the technical details are [here](http://making.nextbigsound.com) and [here](http://highscalability.com/blog/2014/1/28/how-next-big-sound-tracks-over-a-trillion-song-plays-likes-a.html).
+- [The way we work](https://github.com/nextbigsoundinc/The-Way-We-Work) (and [have fun](https://www.youtube.com/watch?v=5f38YzV6ROM)).
 - Where we need help, and how that aligns with what you would like to do.
 
 Checkpoint: at the end of the conversation, we’ll decide together if it makes sense to go on to the next step, the coding challenge.
@@ -25,7 +25,7 @@ Checkpoint: within 48 hours of receiving your coding challenge, we’ll get back
 
 ## In-person Interviews [4-5 hours]
 
-You’ll meet some of our engineers and UI/UX designers, as well as have some one-on-one time with the Co-Founders (Head of Product, CTO, CEO) and VP of Engineering. We’ll let you know whom you’ll be meeting in advance, so you can prepare. 
+You’ll meet some of our engineers, UI/UX designers, and/or client services folks. You'll also have some one-on-one time with the Co-Founders (Head of Product, CTO, CEO) and VP of Engineering. We’ll let you know whom you’ll be meeting in advance, so you can prepare. 
 
 Expect to spend an hour (or so) pairing on actual NBS code. Depending on the timing of your visit, we’ll probably have lunch, coffee, or beers together.
 
@@ -45,4 +45,4 @@ Do you have a project or expertise that you’d like to share with the team? Do 
 
 We want you to be productive on your first day at Next Big Sound. After you complete a few small HR-related tasks, you’ll actually push code to production. That means that we’ll have your computer (typically a Retina Macbook Pro with a huge external monitor) and all the required accounts ready for you.
 
-In the first few weeks, in addition to immersing yourself in our codebase, you’ll spend time learning about different parts of the company (design, sales, client services). We’ll also work on sharpening your understanding of your own values, strengths, and coming up with a 10-year goal.
+In the first few weeks, in addition to immersing yourself in our codebase and infrastructure, you’ll spend time learning about different parts of the company (design, sales, client services). We’ll also work on sharpening your understanding of your own values, strengths, and coming up with a big, hairy, and audacious 10-year goal.
