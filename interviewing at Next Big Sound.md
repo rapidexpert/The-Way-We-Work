@@ -15,7 +15,7 @@ Checkpoint: at the end of the conversation, we’ll decide together if it makes 
 
 ## Coding Challenge [48 hours]
 
-The feedback that we consistently get about our coding challenge is that it’s fun. It’s not surprising: you get access to our production API (4+ years of music/social data!) and you get to do something interesting with this data.
+The feedback that we consistently get about our coding challenge is that it’s fun. It’s not surprising: depending on the role you're considering, you either get access to our production API (4+ years of music/social data!) or get to work with one of the data sources that we import on a daily basis. Either way, you get to do something interesting with this data!
 
 This is an “open book” exercise, and you should use any resources available to you to complete it. If you get stuck, or have questions, let us know. We’re also happy to jump in and pair with you if you find that helpful.
 
