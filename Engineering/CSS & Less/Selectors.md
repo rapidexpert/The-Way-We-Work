@@ -35,7 +35,6 @@ A block is represented by a CSS class. To differentiate it from third-party CSS 
 <button class="nbsButton"> ... </button>
 ```
 ```css
-/* Block */
 .nbsButton { ... }
 ```
 
@@ -57,7 +56,6 @@ An element is represented by a camelCase CSS class, prefixed with the block clas
 </button>
 ```
 ```css
-/* Block */
 .nbsButton { ... }
 
 /* Elements */
@@ -65,27 +63,10 @@ An element is represented by a camelCase CSS class, prefixed with the block clas
 .nbsButton__icon { ... }
 ```
 
-
-##### Underscores vs. Nesting
-Do not use classical CSS nesting (with spaces) or Less nesting (with braces) in an element selector. Use underscores instead.
+Regardless of how deeply nested an element is, its class should only be prefixed with the block name.
 
 ```css
-/* Bad, ".label" is too general */
-.nbsButton .label { ... }
-
-/* Bad, unnecessarily high specificity */
-.nbsButton .nbsButton__label { ... }
-
-/* Good */
-.nbsButton__label { ... }
-```
-
-
-##### Nested Elements
-Do not use more than one set of underscores per selector, even if one element is within another. Underscores only represent the parent-*descendant* relationships between a block and its elements, not the explicit HTML structure of the block.
-
-```css
-/* Bad, coupled to a rigid HTML structure */
+/* Bad */
 .nbsButton__label__icon { ... }
 
 /* Good */
@@ -112,10 +93,7 @@ A modifier is represented by a camelCase CSS class, prefixed with the block clas
 </button>
 ```
 ```css
-/* Block */
 .nbsButton { ... }
-
-/* Elements */
 .nbsButton__label { ... }
 .nbsButton__icon { ... }
 
@@ -147,13 +125,13 @@ Note that the base block class `nbsButton` must be present even when a modifier 
 </button>
 ```
 ```css
-/* Less: */
+/* Less */
 .nbsButton--large {
 	&:extend(.nbsButton);
 	font-size: 1.2;
 }
 
-/* Equivalent to this CSS: */
+/* Equivalent CSS */
 .nbsButton, .nbsButton--large { /* Base button styles */ }
 .nbsButton--large { font-size: 1.2; }
 ```
@@ -165,7 +143,7 @@ Nesting
 
 #### Avoid CSS or Less nesting in selectors.
 
-###### Bad, over-qualified and tightly coupled to HTML:
+###### Bad:
 
 ```html
 <table class="data-table">
@@ -181,7 +159,7 @@ Nesting
 </table>
 ```
 ```css
-/* Less: */
+/* Less */
 table.data-table {
 	tbody {
 		tr {
@@ -192,7 +170,7 @@ table.data-table {
 	}
 }
 
-/* Equivalent CSS: */
+/* Equivalent CSS */
 table.data-table tbody tr td span { ... }
 ```
 
@@ -222,7 +200,7 @@ IDs, Tags, Attributes
 
 #### Avoid IDs, tag names, and attributes in selectors.
 
-###### Bad, repetitive and tightly coupled to HTML:
+###### Bad:
 
 ```html
 <form id="signup-form">
@@ -260,7 +238,7 @@ Pseudo Selectors and Elements
 
 #### Use pseudo-selectors and pseudo-elements instead of classes when possible.
 
-###### Bad, unnecessary markup in content:
+###### Bad:
 
 ```html
 <p><span class="drop-cap">T</span>he quick brown fox jumped over the lazy dog.</p>
