@@ -236,7 +236,7 @@ IDs, Tags, Attributes
 Pseudo Selectors and Elements
 -----------------------------
 
-#### Use pseudo-selectors and pseudo-elements instead of classes when possible.
+#### Use pseudo-selectors and pseudo-elements instead of dedicated markup when possible.
 
 ###### Bad:
 
