@@ -219,16 +219,16 @@ IDs, Tags, Attributes
 ###### Good:
 
 ```html
-<form class="form">
-	<input type="text" name="name" class="form__input">
-	<input type="email" name="email" class="form__input">
-	<textarea name="message" class="form__input"><textarea>
-	<input type="submit" value="Send" class="form__submit">
+<form class="nbsForm">
+	<input type="text" name="name" class="nbsForm__input">
+	<input type="email" name="email" class="nbsForm__input">
+	<textarea name="message" class="nbsForm__input"><textarea>
+	<input type="submit" value="Send" class="nbsForm__submit">
 </form>
 ```
 ```css
-.form__input { ... }
-.form__submit { ... }
+.nbsForm__input { ... }
+.nbsForm__submit { ... }
 ```
 
 
@@ -236,7 +236,7 @@ IDs, Tags, Attributes
 Pseudo Selectors and Elements
 -----------------------------
 
-#### Use pseudo-selectors and pseudo-elements instead of classes when possible.
+#### Use pseudo-selectors and pseudo-elements instead of dedicated markup when possible.
 
 ###### Bad:
 
