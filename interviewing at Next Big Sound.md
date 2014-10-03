@@ -19,13 +19,17 @@ The feedback that we consistently get about our coding challenge is that it’s 
 
 This is an “open book” exercise, and you should use any resources available to you to complete it. If you get stuck, or have questions, let us know. We’re also happy to jump in and pair with you if you find that helpful.
 
-You’ll have 48 hours to complete this challenge. It doesn’t mean that it takes all of 48 hours--we simply find that having this realistic constraint encourages creativity. You can work on the challenge remotely, or you can work on it at our office. If you choose the latter, you’ll also get to meet us in person, and depending on the timing of your visit, we’ll probably have lunch or coffee together. You don’t have to complete the challenge entirely in the office--just get it back to us within 48 hours of starting it. Also, if you decide to work on the challenge in our office, please bring your laptop (if possible) so you can use the development environment and tools that you’re most familiar with.
+You’ll have 48 hours to complete this challenge. It doesn’t mean that it takes all of 48 hours--we simply find that having this realistic constraint encourages creativity. You can work on the challenge remotely, or you can work on it at our office. If you choose the latter, you’ll also get to meet us in person, and depending on the timing of your visit, we’ll probably have lunch or coffee together. You don’t have to complete the challenge entirely in the office--just get it back to us within 48 hours of starting it. Also, if you decide to work on the challenge in our office, please bring your laptop (if possible) so you can use the development environment and tools that you’re most familiar with. Of course, we're happy to provide you an office laptop if that's more convenient. 
 
-Checkpoint: within 48 hours of receiving your coding challenge, we’ll get back to you with some feedback. Again, we’ll decide together if it makes sense to go on to the next step, the in-person interviews.
+Checkpoint: within 48 hours of receiving your coding challenge, we’ll get back to you with some feedback. Again, we’ll decide together if it makes sense to go on to the next step, the interviews.
+
+## Remote Interviews [2-3 hours]
+
+We are a distributed team, with a third of our engineering team working remotely. You'll spend 45-60 minutes each with 2-3 engineers (on Skype or Hangouts), and can expect to work collaboratively on a real-world problem with at least one of them.
 
 ## In-person Interviews [4-5 hours]
 
-You’ll meet some of our engineers, UI/UX designers, and/or client services folks. You'll also have some one-on-one time with the Co-Founders (Head of Product, CTO, CEO) and VP of Engineering. We’ll let you know whom you’ll be meeting in advance, so you can prepare. 
+You’ll visit us in our [Chelsea, NYC offices](https://www.youtube.com/watch?v=5f38YzV6ROM&feature=youtu.be) to meet engineers, UI/UX designers, and/or client services folks. You'll also have some one-on-one time with the Co-Founders (Head of Product, CTO, CEO) and VP of Engineering. We’ll let you know whom you’ll be meeting in advance, so you can prepare.
 
 Expect to spend an hour (or so) pairing on actual NBS code. Depending on the timing of your visit, we’ll probably have lunch, coffee, or beers together.
 
@@ -37,12 +41,16 @@ Next Big Sound is an open and transparent company. We want candidates to experie
 
 ## Optional and Recommended: Present an Ace Series [1 hour]
 
-We regularly invite amazing people to present to the entire Next Big Sound team. We call this “Ace Series”, and recent speakers have included [Lyor Cohen](http://en.wikipedia.org/wiki/Lyor_Cohen) on the future of the music business, [Amanda Cox](http://amandacox.tumblr.com/) on the art of data visualization, and [Alexander Grosse](https://twitter.com/klangberater) on SoundCloud’s technical and organizational architecture. Of course, we’ve got amazing folks working at Next Big Sound (if we do say so ourselves), and they also regularly present on a wide range of topics that they’re passionate about.
+We regularly invite people we find amazing to present to the entire Next Big Sound team. We call this the “Ace Series”, and some of our recent speakers have included Jim King on building BookScan; [Lyor Cohen](http://en.wikipedia.org/wiki/Lyor_Cohen) on the future of the music business; [Amanda Cox](http://amandacox.tumblr.com/) on the art of data visualization; [Alexander Grosse](https://twitter.com/klangberater) on SoundCloud’s technical and organizational architecture; [Steve Klabnik](https://github.com/steveklabnik) on the limits of openness in companies; [Alex Wright](http://www.alexwright.org/) on the Birth of the Information Age. Of course, we’ve got amazing folks working at Next Big Sound (if we do say so ourselves), and they also regularly present on a wide range of topics that they’re passionate about.
 
 Do you have a project or expertise that you’d like to share with the team? Do you want to practice (or reprise) a conference presentation? Let us know, and we’ll gladly arrange for you to present at our Ace Series.
 
+## Feedback to Us
+
+As you may have noticed, we value quick, thoughtful feedback. We ask all candidates for ways that we can improve the interview process. In the spirit of transarency, we encourage all candidates to share their interview experience at on [Quora](http://www.quora.com/Whats-it-like-to-interview-for-an-engineering-role-at-Next-Big-Sound).
+
 ## Your First Day
 
-We want you to be productive on your first day at Next Big Sound. After you complete a few small HR-related tasks, you’ll actually push code to production. That means that we’ll have your computer (typically a Retina Macbook Pro with a huge external monitor) and all the required accounts ready for you.
+We want you to be productive on your first day at Next Big Sound. After you complete a few small HR-related tasks, you’ll get to push code to production. That means that we’ll have your computer (typically a Retina Macbook Pro with a huge external monitor) and all the required accounts ready for you.
 
 In the first few weeks, in addition to immersing yourself in our codebase and infrastructure, you’ll spend time learning about different parts of the company (design, sales, client services). We’ll also work on sharpening your understanding of your own values, strengths, and coming up with a big, hairy, and audacious 10-year goal.
