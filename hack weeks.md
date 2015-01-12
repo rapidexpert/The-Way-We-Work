@@ -13,4 +13,4 @@ Here’s how Hack Weeks run:
 - On the following Tuesday, folks present their hacks to the entire company during Demo Day
 
 # Next Hack Week Date
-- TBD in Q1, 2014
+- March 11-17 in Q1, 2014
