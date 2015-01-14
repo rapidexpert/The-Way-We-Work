@@ -15,10 +15,10 @@ Though you may want to open with these options
 ipython notebook --pylab inline --notebook-dir='/path/to/directory/where/ipython_notebooks/live'
 ```
 
-this command will automatically open a browser window pointing the the local server where iPython notebook is running
+this command will automatically open a browser window pointing the the local server where iPython notebook is running. If you plan to automate this process, bookmark this page before doing so.
 
 ### Automatically start iPython Notebook when you boot up your mac
-Before you start this process, you'll need to know the absolute path to ipython. You can find this by opening Terminal and running
+Before you start this process, make sure ipython notebook is working for you by running through the steps in the previous section. You'll also need to know the absolute path to ipython. You can find this by opening Terminal and running
 ```
 which python
 ``` 
@@ -36,3 +36,5 @@ Replacing "/usr/local/bin/ipython" with the absolute path to ipython on your com
 6. File -> Save and save somewhere that it won't get deleted (i put mine in /Users/adamhajari/Applications/)
 7. Go to System Preferences -> Accounts -> Login items
 8. Add this app
+
+Now when you boot up your laptop, an iPython notebook server will also startup at the usual port (the url you bookmarked in the "Running locally" section of this document)
