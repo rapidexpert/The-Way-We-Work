@@ -24,18 +24,18 @@ which ipython
 ``` 
 It will probably be something like: /usr/local/bin/ipython. Once you have the absolute path:
 
-1. Open Automator 
-2. Select 'New Document'
-3. Select 'Application'
-4. Click "Utilities' in the far left panel and then double click 'Run Shell Script' in the second panel
-5. In the Shell window type 
+ - Open Automator 
+ - Select 'New Document'
+ - Select 'Application'
+ - Click "Utilities' in the far left panel and then double click 'Run Shell Script' in the second panel
+ - In the Shell window type 
 ```
 /usr/local/bin/ipython notebook --no-browser  --pylab inline --notebook-dir='/path/to/directory/where/ipython_notebooks/live'
 ```
 Replacing "/usr/local/bin/ipython" with the absolute path to ipython on your computer. Also, make sure you specify the correct notebook-dir
 
-6. File -> Save and save somewhere that it won't get deleted (i put mine in /Users/adamhajari/Applications/)
-7. Go to System Preferences -> Accounts -> Login items
-8. Add this app
+ - File -> Save and save somewhere that it won't get deleted (i put mine in /Users/adamhajari/Applications/)
+ - Go to System Preferences -> Accounts -> Login items
+ - Add this app
 
 Now when you boot up your laptop, an iPython notebook server will also startup at the usual port (the url you bookmarked in the "Running locally" section of this document)
