@@ -15,7 +15,7 @@ Though you may want to open with these options
 ipython notebook --pylab inline --notebook-dir='/path/to/directory/where/ipython_notebooks/live'
 ```
 
-this command will automatically open a browser window pointing to the local server where iPython notebook is running. If you plan to automate this process, bookmark this page before doing so.
+this command will automatically open a browser window pointing to the local server where iPython notebook is running. Make sure you replace '/path/to/directory/where/ipython_notebooks/live' with the actual path to the directory where you want your ipython notebooks to live. If you plan to automate this process, bookmark this page before doing so.
 
 ### Automatically start iPython Notebook when you boot up your mac
 Before you start this process, make sure ipython notebook is working for you by running through the steps in the previous section. You'll also need to know the absolute path to ipython. You can find this by opening Terminal and running
