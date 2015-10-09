@@ -2,53 +2,51 @@
 ----
 ## Introduction
 
-Over the last 1.5+ years, [we’ve significantly evolved the way that we work](https://making.nextbigsound.com/post/88680367993/iterating-on-iterations-the-year-long-evolution). With this experience under our belts, it feels like the right time to produce this Handbook, which reflects the way that we work now (circa early 2015). Instead of a weighty tome, we decided to make a pithy pamphlet, one designed to be usable and used on a daily basis. So, without further ado…
+This document is meant to facilitate communications between teams within Next Big Sound and to stakeholders outside of Next Big Sound by establishing high level project organization guidelines and centralizing means of communication.
 
-## Important questions
+To summarize:
+1. Most high level project communication should be available in the “Qx: Projects” Trello board. 
+2. These guidelines try to avoid being overly prescriptive wherever possible (by not telling you how to communicate within your team, how to get feedback, etc.), deferring to the team or the individual when it comes to implementing the details of project/iteration mechanics.
 
-_What do I work on? (How does self-selection work?)_
-+ A project that energizes you (that uses your strengths)
-+ Folks can advocate for you to join a project, but the choice is ultimately yours
-+ A project at the intersection of company (e.g., quarterly) and personal (e.g., 10-year) goals
-+ Bugs that you own
-+ If in doubt, ask your peers, or experiment
+These are minimum guidelines and should not discourage anyone from doing what works for her/him. If weekly project update emails or google docs help you gather feedback or organize your thoughts, by all means, do that. If the rest of the team needs to know what you’re working on or the engineering team needs to know about a change that you made somewhere, please, send an email or @channel the appropriate people. This is a lower limit, not an upper bounds.
+
+## Projects
++ Prioritized projects are selected at the beginning of each quarter when someone volunteers to take on the role of "lead" for that project.
++ The project lead ensures communication within the project team, with the rest of the company, and externally. This includes, as appropriate keeping project Trello board(s) up to date, the product status deck up to date, running retrospectives (and sharing results), and facilitating project communication in Slack. 
++ Project team members select themselves onto one or more projects of their choosing at the beginning of the quarter. Team members should try not to overcommit and should plan on working on one project at a time when possible.
++ Project teams scope their project using the template provided in the "Resources" card of the Projects trello board. Project scopes live in the project's Trello card (in either the description or as an attached google doc). Complete project scopes within the first week of the quarter. Projects do not need to start immediately. In fact, it may be necessary to wait to start a project until another project ends if both projects share key team members.
++ It’s recommended that project teams discuss mediums of communication during scoping (trello board, slack, stand-ups, etc.) and that they be consistent throughout all iterations.
++ Each Project Lead will give a brief (1-2 minute) project update at the bi-weekly Project Update meeting.
++ Biweekly demo meetings are opportunities to demo anything shipped since the last demo day. Only complete software/designs/deliverables should be demoed. In progress items should wait for the next demo day. 
++ Project leads conduct a retrospective at the end of their project. The result of retrospectives live on the project's trello card (in either the description or as an attachment). It's recommended that you conduct an informal retrospective at the beginning of each new iteration as part of scoping. 
+
+## Iterations
++ Iterations are the units of work that make up a larger project. Breaking a project up into iterations makes it easier to estimate needs, blockers, and timelines. Iterations should be no more than two weeks in length and need a dedicated lead (not necessarily the project lead).
++ The “Qx Projects” Trello board (formerly “Qx: Iterations”) is where we track everyone’s current iteration. It quickly tells us who is working on what currently, as well as what’s been deployed and is ready to be demo’d at the next demo day.
++ Iteration leads create a trello card for their iteration in the "in progress" lane of the “Qx Projects” board at the beginning of a new iteration. Each team member *actively* working on an iteration moves their face to that iteration’s trello card. 
++ Iteration scopes are typically completed before an iteration starts and are added to the iteration's trello card. If iteration work is unclear at first, the team may want to spend a day or two researching what work is required before scoping in order to more accurately determine needs, timelines, blockers, etc.
++ Iteration scopes typically include a 1-2 sentence summary, key milestones (often as a checklist), an approximate timeline, and a description of what “done” looks like. If you conduct a retrospective for the previous iteration as part of your scoping, you could also include key learnings from that retrospective.
++ When an iteration is complete, its card is moved to the “Deployed” lane of the “Qx Projects” board. The card will be moved to the “Demo’d and Deployed” lane after either it has been spoken about at the Project Update meeting or, if there is something to demo, after it has been demo’d and Demo Day.
+
+## Feedback
+Project feedback is encouraged and should be requested as needed by whatever means works best for the team (slack in #nbs-general, email to nextbigsound@pandora.com, etc.).
+
+## Non-project work
+Work that does not fall under the umbrella of a project (bugs, preparing for a conference, iterating on “The Way We Work”, etc.) follows the same guidelines outlined under iterations (managing trello card, scoping, etc.).
+
+## Self-selection
++ Each contributor is responsible for selecting herself onto one or more projects at the beginning of each quarter.
++ Folks can advocate for you to join a project, but the choice is ultimately yours.
++ Do not overcommit to too many projects.
++ It is recommended that you choose to work on projects that are at the intersection of company (e.g., quarterly) and personal (e.g., 10-year) goals
++ In addition to project work, each contributor is also responsible for addressing any bugs assigned to them before their deadline. If a bug deadline is near (or a bug is critical), this should take precedence over other work.
 
 
-_Have we communicated what we’re working on during an iteration?_
-+ Send scope on first day of iteration including, as appropriate, iteration length to all+scopes
-+ Optionally, send any updates as new information emerges to all+updates
-+ Track progress in Trello
-+ Present what you've shipped at Demo Day
-
-
-_Are we taking time to learn from our work?_
-+ Send iteration summaries to all+summary
-+ You may use the [iteration summaries template](https://docs.google.com/a/thenextbigsound.com/document/d/14q8zENVY9oxlX4k2KD6cCgYfrWAVKHn6YWHLh8KiN-I/edit) and save summaries in the [Iteration Summaries Google Docs Folder](https://drive.google.com/drive/u/0/#folders/0B6xoLqUHplMzY2lZMFk4NzF1c0E)
-+ Conduct retrospectives at least every cycle and share results
-+ Request and proactively share feedback
-+ Read others’ iteration summaries to see what everyone is up to
-
-
-_What do I do if I’m exhausted or not engaged?_
-+ Talk to someone (not necessarily your manager)
-+ [Take a break](https://github.com/nextbigsoundinc/The-Way-We-Work/blob/master/time%20off%20%26%20work%20from%20home.md)
-+ Work on something more engaging
-+ Communicate what you stopped working on
-
-
-## Project Heuristics
-
-+ Have a project lead
-  - Project lead is a short-term, administrative role to ensure communication within the project team, with the rest of the company, and externally (e.g., with customers or vendors). This includes, as appropriate, communicating scopes, any project updates, keeping project Trello board(s) up to date, presenting at Demo Day, running retrospectives (and sharing results), and producing project summaries.
-  - Each team selects their own project lead. There’s value in having the same person be project lead for the duration of the project. Everyone at the company is encouraged to be a project lead from time to time. 
-+ Figure out project communication
-  - Consider stand-ups, hipchat rooms, trello boards, etc
-+ Iterations should not exceed two weeks
 
 ## Company Processes
 + Set Goals (Quarterly)
 + Project prioritization (Quarterly)
-+ Think Like A Client (Quarterly)
++ Dogfooding (Semi-Quarterly)
 + Post-mortems (Ad-hoc)
 + [Hack weeks](https://github.com/nextbigsoundinc/The-Way-We-Work/blob/master/hack%20weeks.md) (Quarterly)
 + [Tron-call](https://nextbigsound.atlassian.net/wiki/pages/viewpage.action?pageId=1114152) (continuous) - [link to rotation](https://docs.google.com/a/thenextbigsound.com/spreadsheet/ccc?key=0AuJCP1o_e4dqdHgtdGxYYm40ZzVOWk9uRHNUMElBUXc#gid=2)
