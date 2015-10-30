@@ -80,11 +80,11 @@ function main() {
   for (var i = 0; i < people.length ; i=i+2) {
     var questions = pickQuestions();
     sheet.appendRow([people[i], 
-                     questions[0], 
-                     questions[1], 
+                     questions[0].toString(), 
+                     questions[1].toString(), 
                      people[i+1], 
-                     questions[2], 
-                     questions[3]]);
+                     questions[2].toString(), 
+                     questions[3].toString()]);
   }
 }
 
