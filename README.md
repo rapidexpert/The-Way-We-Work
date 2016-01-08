@@ -56,7 +56,7 @@ Work that does not fall under the umbrella of a project (bugs, preparing for a c
 ## Company Concepts
 + [Values](https://github.com/mindweather/The-Way-We-Work/blob/master/principles.md) (Company Principles)
 + The Role of Management _is to provide clear business goals, and to help teams maximize productivity, minimize distraction, and to remove roadblocks. Managers also have regular 1:1s with individuals to help clarify company and personal goals and constraints._
-+ (Engineering) [Domain Ownership](https://docs.google.com/a/thenextbigsound.com/spreadsheets/d/1r08Y_Uri3PA_3bvGTsKSnsvF0Z7p-eG01mCIYIu5DeU/edit#gid=1741756551)
++ (Engineering) [Domain Ownership](https://docs.google.com/a/pandora.com/spreadsheets/d/13_0QnZPPAzm2weueKdauggJUeg-kQ1gn0Ajgu_PjQtA/edit?usp=sharing)
 
 
 
