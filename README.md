@@ -49,7 +49,7 @@ Work that does not fall under the umbrella of a project (bugs, preparing for a c
 + Dogfooding (Semi-Quarterly)
 + Post-mortems (Ad-hoc)
 + [Hack weeks](https://github.com/nextbigsoundinc/The-Way-We-Work/blob/master/hack%20weeks.md) (Quarterly)
-+ [Tron-call](https://nextbigsound.atlassian.net/wiki/pages/viewpage.action?pageId=1114152) (continuous) - [link to rotation](https://docs.google.com/a/thenextbigsound.com/spreadsheet/ccc?key=0AuJCP1o_e4dqdHgtdGxYYm40ZzVOWk9uRHNUMElBUXc#gid=2)
++ [Tron-call](https://nextbigsound.atlassian.net/wiki/pages/viewpage.action?pageId=1114152) (continuous) - [link to rotation](https://docs.google.com/spreadsheets/d/1-JtFZ__eEWt6mV4HSWzkr2TlCvN0ZYikcVpj7d0JJNE)
 + [Salary review](https://docs.google.com/a/thenextbigsound.com/document/d/1l_HdDr5RkS0v5QRi7aVokLoiFQIkhsAxPRvw1syx74Q/edit#) (annual)
 
 
