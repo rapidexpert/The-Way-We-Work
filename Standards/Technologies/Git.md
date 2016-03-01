@@ -1,5 +1,7 @@
-# Git at Next Big Sound
-Draft 1 - September 18, 2013
+Git
+===
+
+*This is possibly outdated and needs review.*
 
 ## Preface
 This document will offer a set of guidelines on how to use Git and GitHub to effectively collaborate, with the goal of increasing the speed and quality of our development while decreasing overhead. Topics covered include: using git locally, with a particular focus on branching; GitHub's Pull Requests, where the bulk of our collaboration happens; and sample workflows, which will offer recommendations on how to accomplish common tasks, such as fixing a bug or working on a large team project.

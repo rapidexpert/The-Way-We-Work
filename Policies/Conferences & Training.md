@@ -1,4 +1,7 @@
-#Conferences and Training
+Conferences and Training
+========================
+
+*This is possibly outdated and needs review.*
 
 At Next Big Sound, we believe that everyone has a story to tell and that everyone can get better at their craft. That is why we encourage everyone to present at least once at a conference or meetup per year, and to attend at least one training class each year. As with our vacation policy, our formal conference/training policy is "do what's right for you, your team, and NBS". You do not need to ask your manager for approval to go to a conference or attend training.
 
