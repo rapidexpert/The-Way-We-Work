@@ -1,6 +1,10 @@
-# JavaScript
+JavaScript
+==========
 
-## Linting
+*This is possibly outdated and needs review.*
+
+Linting
+-------
 
 Linters are tools that statically analyze code to check for bugs and anti-patterns. Linting code is a powerful tool to find problems in code before they makes their way into production, and at Next Big Sound all front-end JavaScript must succesfully pass a linter at least three times before it is included in the product.
 

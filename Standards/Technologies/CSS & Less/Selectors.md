@@ -1,6 +1,8 @@
 CSS & Less: Selectors
 =====================
 
+*This is possibly outdated and needs review.*
+
 - [Overview](#overview)
 - [Blocks](#blocks)
 - [Elements](#elements)

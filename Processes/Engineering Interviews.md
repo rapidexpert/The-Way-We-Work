@@ -1,4 +1,5 @@
-# Interviewing at Next Big Sound
+Engineering Interviews
+======================
 
 Here’s what you can expect while interviewing for an engineering role at Next Big Sound. We expect the process to be efficient, transparent, and engaging, and welcome your feedback on how we can make it better.
 
@@ -19,7 +20,7 @@ The feedback that we consistently get about our coding challenge is that it’s 
 
 This is an “open book” exercise, and you should use any resources available to you to complete it. If you get stuck, or have questions, let us know. We’re also happy to jump in and pair with you if you find that helpful.
 
-You’ll have 48 hours to complete this challenge. It doesn’t mean that it takes all of 48 hours--we simply find that having this realistic constraint encourages creativity. You can work on the challenge remotely, or you can work on it at our office. If you choose the latter, you’ll also get to meet us in person, and depending on the timing of your visit, we’ll probably have lunch or coffee together. You don’t have to complete the challenge entirely in the office--just get it back to us within 48 hours of starting it. Also, if you decide to work on the challenge in our office, please bring your laptop (if possible) so you can use the development environment and tools that you’re most familiar with. Of course, we're happy to provide you an office laptop if that's more convenient. 
+You’ll have 48 hours to complete this challenge. It doesn’t mean that it takes all of 48 hours--we simply find that having this realistic constraint encourages creativity. You can work on the challenge remotely, or you can work on it at our office. If you choose the latter, you’ll also get to meet us in person, and depending on the timing of your visit, we’ll probably have lunch or coffee together. You don’t have to complete the challenge entirely in the office--just get it back to us within 48 hours of starting it. Also, if you decide to work on the challenge in our office, please bring your laptop (if possible) so you can use the development environment and tools that you’re most familiar with. Of course, we're happy to provide you an office laptop if that's more convenient.
 
 Checkpoint: within 48 hours of receiving your coding challenge, we’ll get back to you with some feedback. Again, we’ll decide together if it makes sense to go on to the next step, the interviews.
 
