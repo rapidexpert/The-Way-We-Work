@@ -1,7 +1,7 @@
 Purpose & Values
 ================
 
-Our **purpose** defines *why* we exist, and why we do what we do.<br>
+Our **purpose** defines *why* we exist and why we do what we do.<br>
 Our **values** describe *how* we manifest our purpose.
 
 - **[Company purpose & values](Company.md)**<br>
