@@ -1,7 +1,7 @@
 Processes
 =========
 
-We have only processes that help us do our best work. These are our minimum standards of communication and organization.
+We only have processes that help us do our best work. These are our minimum standards of communication and organization.
 
 
 Standards
@@ -16,7 +16,7 @@ Standards
 - **Peer-reviewed planning**<br>
 	We document peer-reviewed plans before working on non-trivial things.
 
-- **Two-week cycle**<br>
+- **Two-week work cycle**<br>
 	We commit to 2 weeks' worth of work at a time.
 
 
