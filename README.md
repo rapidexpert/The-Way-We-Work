@@ -8,17 +8,14 @@ This guide will lead you through why, on what, and how we work.
 1. **[Purpose & Values](Purpose & Values)**<br>
 	Why we do what we do.
 
-2. **[Terminology](Standards/Terminology.md)**<br>
-	The meaning of terms you might hear around here.
+2. **[Standards](Standards)**<br>
+	Common conventions and best practices.
 
 3. **[Processes](Processes)**<br>
 	How we get things done.
 
-4. **[Standards](Standards)**<br>
-	Common conventions and best practices.
-
-5. **[Policies](Policies)**<br>
+4. **[Policies](Policies)**<br>
 	No TPS reports here, we promise.
 
-6. **[Tools](Tools)**<br>
+5. **[Tools](Tools)**<br>
 	A collection of helpful things we use.
