@@ -27,7 +27,7 @@ Checklist for whoever is running cycle planning to go through during the meeting
 - highlight current company goals and product strategy
 - report on key metric status (insights delivered)
 - close sprint
-	- move all non-done tickets will to new sprint (with discussion)
+	- move all non-done tickets to new sprint (with discussion)
 	- look at sprint statistics (JIRA dashboard)
 - for each priority epic:
 	- prompts:
