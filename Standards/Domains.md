@@ -3,7 +3,7 @@ Domains
 
 What they are
 -------------
-A domain is a discrete, long-lasting area of skill and activity owned by an established group.
+A domain is a discrete, long-lasting area of skill and activity.
 
 Our domains are:
 - **Client:** Communication with our consumers
@@ -16,12 +16,6 @@ Our domains are:
 
 Why they exist
 --------------
-As our organization has grown, our work has implicitly clustered around distinct disciplines. This clustering is both natural and necessary, since is no longer possible for any one person to have both a comprehensive _and_ a thorough understanding of all our organization's processes and systems. Explicit domains promote a more scalable sense of ownership.
+As our organization has grown, our work has implicitly clustered around distinct disciplines. This clustering is both natural and necessary, since is no longer possible for any one person to have both a comprehensive _and_ a thorough understanding of all our organization's processes and systems.
 
-
-Responsibilities
-----------------
-Domains' responsibilities include:
-- Ownership of the processes, conventions, and technologies within the domain
-- Monitoring, communicating, and caring for the health of the domain
-- Organizing and executing work to support cross-domain projects and goals
+Similar to the concept of a guild, domains exist as a construct for those with a specific area of expertise to discuss projects and ideas related to Next Big Sound within their scope. Domain teams should align their priority work to help resolve blockers and solve problems.
