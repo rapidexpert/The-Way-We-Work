@@ -19,6 +19,8 @@ While this document was not modeled after a formal working agreement the intenti
     * Requires approval from other teams.
 * [task] Always make a ticket for every victorops issue that comes in while you are on call.
     * [task] Tutorial on how to create a ticket in Jira
+* [task] Post a data status notice on this page [https://boss.nextbigsound.com/data_statuses](https://boss.nextbigsound.com/data_statuses) in the event we are aware of a widespread customer facing data issue that takes more than 24 hours to resolve (i.e. Wikipedia data is delayed 5+ days and we don't know when it'll be back)
+   * [task] Remove data notices once the issue is resolved
 
 ## Alert Feedback
 
