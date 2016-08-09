@@ -13,21 +13,15 @@ While this document was not modeled after a formal working agreement the intenti
  
 ## On Call Rotation
 
-* [process] If you can't get to a page reach out to someone who can get to it.
-* [task] Change the on call rotation so that each person is secondary on call the week before they become primary.
-* [task] Change the on call rotation so that Sam and Samir are the 3rd tier of escalation for Data Engineering, Data Science and Web.
-    * Requires approval from other teams.
-* [task] Always make a ticket for every victorops issue that comes in while you are on call.
-    * [task] Tutorial on how to create a ticket in Jira
+* [process] If you can't work on a victorops page, reach out to someone who can work on it.
+* [process] Always make a ticket for every victorops issue that comes in while you are on call.
 
 ## Alert Feedback
 
-* [process] Pair program when fixing alerts, and update the docs for the next engineer!
-* [issue] We have a gap between the contents of a victorops alert and the documentation for that alert.
-    * [task] Add documentation links to each alerts
+* [process] Pair program when fixing alerts, and update docs linked to a nagios alert on steps to resolve. If not link to resolution docs, create one.
+* [process] Add documentation for alerts missing info on how to resolve. If no resolution or need help, pair with teammate in identifying proper documentation for a particular alert. 
 * [process] Always look for opportunities to optimize feedback loop on alerts.
-* [task] Kill bug emails in favor of alerting via Nagios/VictorOps
-      
+
 ## Bugs
 We agree in principle that bugs should always come first.  However, we also came up with a long list of
 exceptions to that rule without even trying. So, the bullets below are ideals we will strive for rather than unbreakable rules.
