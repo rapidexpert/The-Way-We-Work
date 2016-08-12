@@ -1,8 +1,8 @@
-# Pre Mortem :: <project name>
+# Pre Mortem :: Project Name
 
-<Brief description of the project.>
+Brief description of the project.
 
-# Organizer: 
+# Organizer: Organizer Name
 
 # Attendees:
 
@@ -28,5 +28,4 @@
 
 # Post Meeting Comments
 
-- <Name> :: <YYYYMMDD> :: <Comment>
 - Rich Haase :: 20160812 :: Remediation 1 for item 1 will not work because ...
