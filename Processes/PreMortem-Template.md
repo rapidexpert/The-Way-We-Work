@@ -2,6 +2,8 @@
 
 <Brief description of the project.>
 
+# Organizer: 
+
 # Attendees:
 
 - attendee 1
