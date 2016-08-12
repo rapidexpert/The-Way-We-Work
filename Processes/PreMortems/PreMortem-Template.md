@@ -18,4 +18,13 @@
 # What could possibly go wrong? (List remediation options as applicable.)
 
 - item 1
+  - remediation 1
+  - ...
 - item 2
+  - remediation 1
+
+
+# Post Meeting Comments
+
+- <Name> :: <YYYYMMDD> :: <Comment>
+- Rich Haase :: 20160812 :: Remediation 1 for item 1 will not work because ...
