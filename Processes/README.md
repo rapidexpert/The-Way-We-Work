@@ -80,7 +80,7 @@ Meetings
 	After every outage, everyone involved meets to provide an account of what happened, identify any learnings, and plan next steps.
 
 - **Pre mortems**<br>
-  Before major changes hold a pre mortem to discuss what could possibly go wrong.  Copy [this](https://github.com/nextbigsoundinc/The-Way-We-Work/tree/master/Processes/PreMortems/PreMortem-Template.md) template and follow the steps listed to conduct the pre mortem.  All completed premortem docs should be available [here](https://github.com/nextbigsoundinc/The-Way-We-Work/tree/master/Processes/PreMortems)
+  Before major changes hold a pre mortem to discuss what could possibly go wrong.  Copy [this](https://github.com/nextbigsoundinc/The-Way-We-Work/tree/master/Processes/PreMortem-Template.md) template to a Google Doc and follow the steps listed to conduct the pre mortem.
 
 - **[Ace series](https://trello.com/b/Mzusq8U8/ace-series)**<br>
 	Individuals within or outside of Next Big Sound present topics of interest in an occasional lunchtime meeting.
