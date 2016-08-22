@@ -1,7 +1,7 @@
 Time Off & Working Remotely
 ===========================
 
-At Next Big Sound, we believe that you know best when you need to take time off or work outside your normal office hours. That is why we have no formal time off or remote work policy other than "do what's right for you, your team, and NBS". That is also why you do not need to ask your manager for approval for time off or to work remotely.
+At Next Big Sound, we believe that you know best when you need to take time off or work outside your normal office hours. As part of Pandora, all full-time employees are entitled to paid time off during the year based on years of service. We trust you will make these decisions in line with what’s right for you, your team, Next Big Sound, and Pandora at large.
 
 With that in mind, it's important to communicate any time off clearly and in a timely manner so others can plan accordingly. A good practice for effective communication is:
 
