@@ -3,7 +3,7 @@ Design Purpose & Values
 
 Purpose
 -------
-*To be determined…*
+Informed by research, we create delightful and useful experiences that enable the music industry to take action and reach their goals. 
 
 
 Values
